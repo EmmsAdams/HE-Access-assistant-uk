@@ -1,0 +1,7 @@
+country,qualification_name,years,likely_uk_level,uk_equiv_note,confidence
+Nigeria,WAEC,5,Level 3 (A-level equivalent-ish),Often accepted for UG entry depending on grades and university,Medium
+Pakistan,HSSC,2,Level 3,May support UG entry with relevant subjects,Medium
+Syria,Baccalaureate,1,Level 3,Varies by institution and subject,Low
+Ethiopia,EHEECE,2,Level 3,Often requires foundation year,Low
+India,Higher Secondary Certificate,2,Level 3,Depends on board and grades,Medium
+Ghana,WASSCE,3,Level 3,Commonly accepted for UG entry with good grades,Medium
