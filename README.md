@@ -33,3 +33,6 @@ Users can enter their qualifications and receive an approximate UK level mapping
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+## Screenshots
+![Input form](screenshots/app_input.png)
+![Results](screenshots/app_results.png)
